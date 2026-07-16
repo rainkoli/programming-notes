@@ -1,6 +1,6 @@
+# Nowcoder Weekly Round 151
 
-
-# A. 运动会
+## A. 运动会
 
 题目链接：https://ac.nowcoder.com/acm/contest/137267/A
 
@@ -51,4 +51,3 @@ public class Main {
 空间复杂度：`O(n)`。
 
 代码中把字符串转成了字符数组。如果直接使用 `s.charAt(i)`，空间复杂度可以看作 `O(1)`。
-
