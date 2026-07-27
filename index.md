@@ -4,8 +4,21 @@ Java、算法、题解与编程竞赛学习记录。
 
 ## Java notes
 
+### Java source code
+
 - [Java source code: `short` and `java.lang.Short`](./notes/java/source-code/short-and-wrapper-class.md)
-- [JLS Chapter 5: Conversions and Contexts](./notes/java/jls/chapter-05-conversions-and-contexts.md)
+- [Java source code: `java.util.Arrays`](./notes/java/source-code/Arrays_util_java.md)
+- [Java source code: `java.lang.String`](./notes/java/source-code/String_lang_java.md)
+
+### Java Language Specification
+
+- [JLS Chapter 5: Conversions and Contexts](./notes/java/jls/Chapter%205.%20Conversions%20and%20Contexts.md)
+- [JLS Chapter 7: Packages and Modules](./notes/java/jls/Chapter%207.%20Packages%20and%20Modules.md)
+- [JLS Chapter 8: Classes](./notes/java/jls/Chapter%208.%20Classes.md)
+- [JLS Chapter 9: Interfaces](./notes/java/jls/Chapter%209.%20Interfaces.md)
+- [JLS Chapter 11: Exceptions](./notes/java/jls/Chapter%2011.%20Exceptions.md)
+- [JLS Chapter 14: Blocks, Statements, and Patterns](./notes/java/jls/Chapter%2014.%20Blocks,%20Statements,%20and%20Patterns.md)
+- [JLS Chapter 15: Expressions](./notes/java/jls/Chapter%2015.%20Expressions.md)
 
 ## Algorithm notes
 
@@ -23,7 +36,7 @@ Java、算法、题解与编程竞赛学习记录。
 
 - [LeetCode Weekly Contest records](./contests/leetcode/weekly/README.md)
 
-## Standalone solutions
+### Standalone solutions
 
 - [因子个数为奇数的数量](./solutions/number-theory/odd-number-of-divisors.md)
 
