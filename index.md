@@ -15,8 +15,8 @@ Java、算法、题解与编程竞赛学习记录。
 - [JLS Chapter 5: Conversions and Contexts](./notes/java/jls/Chapter%205.%20Conversions%20and%20Contexts.md)
 - [JLS Chapter 7: Packages and Modules](./notes/java/jls/Chapter%207.%20Packages%20and%20Modules.md)
 - [JLS Chapter 8: Classes](./notes/java/jls/Chapter%208.%20Classes.md)
-- [JLS Chapter 9: Interfaces](./notes/java/jls/Chapter%209.%20Interfaces.md)
-- [JLS Chapter 11: Exceptions](./notes/java/jls/Chapter%2011.%20Exceptions.md)
+- [JLS Chapter 9: Interfaces](./notes/java/jls/Chapter9.%20Interfaces.md)
+- [JLS Chapter 11: Exceptions](./notes/java/jls/Chapter11.Exceptions.md)
 - [JLS Chapter 14: Blocks, Statements, and Patterns](./notes/java/jls/Chapter%2014.%20Blocks,%20Statements,%20and%20Patterns.md)
 - [JLS Chapter 15: Expressions](./notes/java/jls/Chapter%2015.%20Expressions.md)
 
