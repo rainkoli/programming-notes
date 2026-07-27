@@ -17,7 +17,7 @@ Java、算法、题解与编程竞赛学习记录。
 - [JLS Chapter 8: Classes](./notes/java/jls/Chapter8.Classes.md)
 - [JLS Chapter 9: Interfaces](./notes/java/jls/Chapter9.Interfaces.md)
 - [JLS Chapter 11: Exceptions](./notes/java/jls/Chapter11.Exceptions.md)
-- [JLS Chapter 14: Blocks, Statements, and Patterns](./notes/java/jls/Chapter14.-Blocks,Statements,and-Patterns.md)
+- [JLS Chapter 14: Blocks, Statements, and Patterns](./notes/java/jls/Chapter14.Blocks-Statements-and-Patterns.md)
 - [JLS Chapter 15: Expressions](./notes/java/jls/Chapter15.Expressions.md)
 
 ## Algorithm notes
