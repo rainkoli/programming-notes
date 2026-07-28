@@ -13,6 +13,7 @@ Java、算法、题解与编程竞赛学习记录。
 ### Java Language Specification
 
 - [JLS Chapter 5: Conversions and Contexts](./notes/java/jls/Chapter5.Conversions-and-Contexts.md)
+- [JLS Chapter 5: Conversions and Contexts](./notes/java/jls/Chapter6.Names.md)
 - [JLS Chapter 7: Packages and Modules](./notes/java/jls/Chapter7.Packages-and-Modules.md)
 - [JLS Chapter 8: Classes](./notes/java/jls/Chapter8.Classes.md)
 - [JLS Chapter 9: Interfaces](./notes/java/jls/Chapter9.Interfaces.md)
@@ -39,6 +40,12 @@ Java、算法、题解与编程竞赛学习记录。
 ### Standalone solutions
 
 - [因子个数为奇数的数量](./solutions/number-theory/odd-number-of-divisors.md)
+
+### Misc
+- [Static](./notes/java/misc/Static.md)
+- [Variable](./notes/java/misc/Variable.md)
+- [Interface](./notes/java/misc/Interface.md)
+- [Ploymorphism](./notes/java/misc/Ploymorphism.md)
 
 ## Notice
 
