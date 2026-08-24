@@ -5,6 +5,7 @@
 - [Chapter 7. Packages and Modules](./chapter-07-packages-and-modules.md)
 - [Chapter 8. Classes](./chapter-08-classes.md)
 - [Chapter 9. Interfaces](./chapter-09-interfaces.md)
+- [Chapter 10. Array Members](./chapter-10-array-members.md)
 - [Chapter 11. Exceptions](./chapter-11-exceptions.md)
 - [Chapter 14. Blocks, Statements, and Patterns](./chapter-14-blocks-statements-and-patterns.md)
 - [Chapter 15. Expressions](./chapter-15-expressions.md)
