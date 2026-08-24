@@ -10,3 +10,13 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Java build outputs
+*.class
+target/
+build/
+out/
+.gradle/
+
+# Bytecode fixtures required by the linkage-error demo
+!demos/java/linkage-error/*.class
