@@ -1,18 +1,9 @@
-# LeetCode Weekly Contest Records
+# LeetCode / LCR 题目
 
-Store each LeetCode Weekly Contest record in this directory.
+这里收录 LeetCode 与 LCR（剑指 Offer）相关的题目记录。
 
-Recommended filename format:
+- [LCR / 剑指 Offer 题目记录](./jian-zhi-offer.md)
 
-```text
-weekly-contest-000.md
-```
+后续题解使用能稳定表达题目身份的文件名，例如 `lcr-146-spiral-matrix.md` 或 `leetcode-704-binary-search.md`。
 
-Each record can include:
-
-- solved problems;
-- solution ideas;
-- Java implementations;
-- time and space complexity;
-- mistakes and lessons learned;
-- algorithms and data structures used.
+返回 [算法题目](../README.md) 或 [算法笔记](../../README.md)。
