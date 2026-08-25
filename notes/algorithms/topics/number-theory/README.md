@@ -1,5 +1,9 @@
-# 数论专题
+# Number Theory
 
-- [质数的定义、判断与筛法](./prime-number.md)
+- [Prime numbers](./prime-number.md)
 
-返回 [算法专题](../README.md) 或 [算法笔记](../../README.md)。
+## Related problems
+
+- [Odd number of divisors](../../problems/standalone/number-theory/odd-number-of-divisors.md)
+
+Return to [Topics](../README.md) or [Algorithms](../../README.md).

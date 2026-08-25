@@ -25,7 +25,7 @@ Java、数据库、算法、源码分析、工具与示例代码的长期学习�
 - [Spring 依赖注入](./notes/java/frameworks/spring/dependency-injection-detailed-notes.md)
 - [MySQL 索引性能](./notes/database/mysql/mysql-index-performance-guide.md)
 - [算法知识体系](./notes/algorithms/topics/acm-knowledge-system.md)
-- [牛客周赛 Round 155](./notes/algorithms/problems/nowcoder/round-155.md)
+- [牛客周赛 Round 155](./notes/algorithms/problems/nowcoder/weekly-contest/round-155.md)
 
 ## 说明
 

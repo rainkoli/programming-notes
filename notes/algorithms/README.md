@@ -1,32 +1,32 @@
-# 算法笔记
+# Algorithms
 
-算法笔记按“可复用知识”和“具体题目”两条主线组织。每一级目录都提供独立索引页，可以从这里逐层浏览。
+This page is the entry point for the algorithm notes. Browse from a topic to its reusable knowledge and then to the related problem solutions.
 
-## 目录入口
+## Browse by topic
 
-| 分类 | 内容 |
-| --- | --- |
-| [专题知识](./topics/) | 可以跨题目复用的原理、模板和知识体系 |
-| [题目练习](./problems/) | 按题目来源整理的解题记录和复盘 |
+| Topic | Topic index | Related problem index |
+| --- | --- | --- |
+| Array | [array](./topics/array/README.md) | — |
+| Binary search | [binary-search](./topics/binary-search/README.md) | — |
+| Dynamic programming | [dynamic-programming](./topics/dynamic-programming/README.md) | [LeetCode](./problems/leetcode/dynamic-programming/README.md), [Luogu](./problems/luogu/dynamic-programming/README.md) |
+| Graph | [graph](./topics/graph/README.md) | — |
+| Greedy | [greedy](./topics/greedy/README.md) | — |
+| Linked list | [linked-list](./topics/linked-list/README.md) | [Luogu](./problems/luogu/linked-list/README.md) |
+| Number theory | [number-theory](./topics/number-theory/README.md) | [standalone problems](./problems/standalone/number-theory/README.md) |
+| Tree | [tree](./topics/tree/README.md) | — |
 
-## 专题知识
+## Browse by source
 
-- [ACM-ICPC / OI 知识体系](./topics/acm-knowledge-system.md)
-- [代码随想录整理](./topics/code-thinking-notes.md)
-- [质数](./topics/number-theory/prime-number.md)
+- [All problem sources](./problems/README.md)
+- [LeetCode / LCR](./problems/leetcode/README.md)
+- [Luogu](./problems/luogu/README.md)
+- [Nowcoder](./problems/nowcoder/README.md)
+- [Interview questions](./problems/interview/README.md)
+- [Platform-independent problems](./problems/standalone/README.md)
 
-## 题目练习
+## Other indexes
 
-`problems/` 的第一层统一表示题目来源，避免混用“平台”和“算法主题”。
+- [Cross-topic knowledge](./topics/README.md)
+- [Templates](./templates/README.md)
 
-| 来源 | 目录 |
-| --- | --- |
-| LeetCode / LCR | [leetcode](./problems/leetcode/) |
-| 洛谷 | [luogu](./problems/luogu/) |
-| 牛客 | [nowcoder](./problems/nowcoder/) |
-| 面试题 | [interview](./problems/interview/) |
-| 无平台独立题目 | [standalone](./problems/standalone/) |
-
-独立题目可以在 `standalone/` 下按稳定主题继续细分，例如 [number-theory](./problems/standalone/number-theory/)。
-
-返回 [笔记总索引](../README.md)。
+Each topic page lists the related notes first and the concrete problem pages second.

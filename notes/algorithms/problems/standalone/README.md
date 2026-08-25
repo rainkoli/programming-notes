@@ -2,6 +2,6 @@
 
 这里收录不依赖特定在线评测平台的题目，并按稳定的算法主题继续分类。
 
-- [数论](./number-theory/)
+- [数论](./number-theory/README.md)
 
 返回 [算法题目](../README.md) 或 [算法笔记](../../README.md)。

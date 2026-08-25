@@ -1,6 +1,6 @@
-# 洛谷题目
+# Luogu Problems
 
-- [B3631 单向链表](./luogu.md)
-- [P1216 数字三角形最大路径和](./p1216-number-triangle-dp-summary.md)
+- [Dynamic programming](./dynamic-programming/README.md)
+- [Linked list](./linked-list/README.md)
 
-返回 [算法题目](../README.md) 或 [算法笔记](../../README.md)。
+Return to [Problems](../README.md) or [Algorithms](../../README.md).

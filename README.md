@@ -77,7 +77,7 @@ programming-note/
 - [MySQL index performance](./notes/database/mysql/mysql-index-performance-guide.md)
 - [ACM-ICPC / OI knowledge system](./notes/algorithms/topics/acm-knowledge-system.md)
 - [LeetCode records](./notes/algorithms/problems/leetcode/README.md)
-- [Nowcoder Weekly Round 155](./notes/algorithms/problems/nowcoder/round-155.md)
+- [Nowcoder Weekly Round 155](./notes/algorithms/problems/nowcoder/weekly-contest/round-155.md)
 
 ## Notice / 说明
 
