@@ -1,5 +1,3 @@
-
-
 [CS自学指南](https://csdiy.wiki/)
 
 [欢迎来到上海交通大学 | SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
@@ -11,3 +9,15 @@
 [GitBook](https://www.gitbook.com/?utm_source=legacy&utm_medium=redirect&utm_campaign=close_legacy)
 
 [面试鸭](https://www.mianshiya.com/)
+
+mybatis
+
+https://mybatis.org/mybatis-3/xref/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.html?utm_source=chatgpt.com
+
+https://mybatis.org/mybatis-3/jacoco/org.apache.ibatis.builder.xml/XMLMapperBuilder.java.html
+
+https://learngitbranching.js.org/
+
+[MDN](https://developer.mozilla.org/en-US)
+
+[DOM](https://dom.spec.whatwg.org/)
