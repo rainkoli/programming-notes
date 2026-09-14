@@ -36,6 +36,37 @@ dp\[i\]\[j\] = a\[i\]\[j\] + Math.max(dp\[i+1\]\[j\], dp\[i+1\]\[j+1\])
 
 空间 O(r²)
 
+
+
+```java
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int r = in.nextInt();
+
+        int[][] arr = new int[r][r];
+        for (int i = 0; i < r; i ++ )
+            for (int j = 0; j < i + 1; j ++ )
+                arr[i][j] = in.nextInt();
+
+        int[][] dp = new int[r][r];
+        for (int j = 0; j < r; j ++ )
+            dp[r - 1][j] = arr[r - 1][j];
+
+        for (int i = r - 2; i > -1; i -- )
+            // 从右往左
+            for (int j = i; j > -1; j -- ) { // for (int j = 0; j < i + 1; j ++ ) 从左往右
+                dp[i][j] = Math.max(dp[i + 1][j], dp[i + 1][j + 1]) + arr[i][j];
+            }
+
+        System.out.println(dp[0][0]);
+        in.close();
+    }
+}
+```
+
 ------------------------------------------------------------------------
 
 # 方法二：二维状态压缩为一维 DP
@@ -70,6 +101,40 @@ dp\[j\] = a\[i\]\[j\] + Math.max(dp\[j\], dp\[j+1\])
 
 空间 O(r)
 
+```java
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String... sdf) {
+        Scanner in = new Scanner(System.in);
+        int r = in.nextInt();
+
+        int[][] arr = new int[r][r];
+        for (int i = 0; i < r; i ++ ) {
+            for (int j = 0; j < i + 1; j ++ ) {
+                arr[i][j] = in.nextInt();
+            }
+        }
+
+        int[] dp = new int[r];
+        for (int j = 0; j < r; j ++ ) {
+            dp[j] = arr[r - 1][j];
+        }
+
+        for (int i = r - 2; i > -1; i -- ) {
+            for (int j = 0; j < i + 1; j ++ ) {
+                dp[j] = Math.max(dp[j], dp[j + 1]) + arr[i][j];	
+            }
+        }
+
+        System.out.println(dp[0]);
+        in.close();
+    }
+}
+```
+
+
+
 ------------------------------------------------------------------------
 
 # 方法三：输入时直接一维 DP（top-down）
@@ -101,6 +166,35 @@ dp\[j\] = dp\[j-1\] + num
 中间：
 
 dp\[j\] = Math.max(dp\[j-1\], dp\[j\]) + num
+
+```java
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String... zyc) {
+        Scanner in = new Scanner(System.in);
+        int r = in.nextInt();
+
+        int[] dp = new int[r];
+        for(int i = 0; i < r; i ++ )
+            for (int j = i; j > -1; j -- ) {
+                int num = in.nextInt();
+                if (j == 0) dp[j] = dp[j] + num;
+                else if (j == i) dp[j] = dp[j - 1] + num;
+                else dp[j] = Math.max(dp[j], dp[j - 1]) + num;
+            }
+        
+        int ans = 0;
+        for (int x : dp) ans = Math.max(ans, x);
+        
+        System.out.println(ans);
+        
+        in.close();
+    }
+}
+```
+
+
 
 ------------------------------------------------------------------------
 
@@ -260,7 +354,7 @@ for(int i = 0; i < r; i++){
 # 两种 top-down 一维 DP 对比
 
   方式     数组数量   遍历方向    原因
-  -------- ---------- ----------- ------------------
+-------- ---------- ----------- ------------------
   单数组   1          右 -\> 左   保护旧状态
   双数组   2          左 -\> 右   旧状态保存在 old
 
