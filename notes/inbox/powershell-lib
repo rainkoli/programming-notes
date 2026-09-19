@@ -1,0 +1,6 @@
+New-Item -ItemType Directory -Path ".\global-skills"
+Get-ChildItem -Path ".\global-skills"
+# 创建目录联接：前者为联接路径，后者为已存在的目标目录。
+cmd /c mklink /J ".\global-skills\my-skills" ".\source-skills"
+# 仅删除上面创建的目录联接，保留目标目录。
+cmd /c rmdir ".\global-skills\my-skills"

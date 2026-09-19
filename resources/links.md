@@ -12,7 +12,7 @@
 
 mybatis
 
-https://mybatis.org/mybatis-3/xref/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.html?utm_source=chatgpt.com
+https://mybatis.org/mybatis-3/xref/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.html
 
 https://mybatis.org/mybatis-3/jacoco/org.apache.ibatis.builder.xml/XMLMapperBuilder.java.html
 
@@ -21,3 +21,13 @@ https://learngitbranching.js.org/
 [MDN](https://developer.mozilla.org/en-US)
 
 [DOM](https://dom.spec.whatwg.org/)
+
+[Apache Maven Project](https://maven.apache.org)
+
+[Claude Code](https://claude.com/product/claude-code)
+
+[Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)
+
+[CSDB](https://csdb.gg/cs2-commands/)
+
+[ChatGPT Documentation](https://learn.chatgpt.com/docs)
