@@ -10,6 +10,8 @@
 
 [面试鸭](https://www.mianshiya.com/)
 
+
+
 mybatis
 
 https://mybatis.org/mybatis-3/xref/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.html
@@ -18,16 +20,65 @@ https://mybatis.org/mybatis-3/jacoco/org.apache.ibatis.builder.xml/XMLMapperBuil
 
 https://learngitbranching.js.org/
 
+
+
 [MDN](https://developer.mozilla.org/en-US)
 
 [DOM](https://dom.spec.whatwg.org/)
 
+
+
 [Apache Maven Project](https://maven.apache.org)
 
-[Claude Code](https://claude.com/product/claude-code)
+
 
 [Valve Developer Community](https://developer.valvesoftware.com/wiki/Main_Page)
 
 [CSDB](https://csdb.gg/cs2-commands/)
 
+
+
+[Claude Code](https://claude.com/product/claude-code)
+
 [ChatGPT Documentation](https://learn.chatgpt.com/docs)
+
+[OpenAI Developer](https://developers.openai.com)
+
+[MCP](https://modelcontextprotocol.io/docs)  
+
+[koog](docs.koog.ai)
+
+
+
+[chromium](https://chromium.googlesource.com/)
+
+
+
+[YAML Ain't Markup Language](https://yaml.org)
+
+
+
+[The Open Group](https://www.opengroup.org)
+
+[The Austin Common Standards Revision Grouo](https://www.opengroup.org/austin/)
+
+
+
+[中国共产党历次全国代表大会数据库](https://cpc.people.cn/GB/64162/64168/index.html)
+
+
+
+[CSS Positioned Layout Module Level 3](https://w3.org/TR/css-position-3)
+
+
+
+https://www.npmjs.com/about
+
+https://www.npmjs.com/package/npm
+
+https://nodejs.org/ta/blog/npm/2013-outage-postmortem
+
+https://blog.izs.me/
+
+
+
