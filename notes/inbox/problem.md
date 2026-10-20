@@ -37,5 +37,10 @@ public class ConsultLevelController {
     }
 ```
 
-
 Spring MVC   + Spring WebFlux 为什么冗余？
+
+
+
+形参中的 slash / 到底要不要加？ springmvc 会自动处理它吗？
+
+@RequestMapping 注解中的形参 name 有什么用？

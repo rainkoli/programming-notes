@@ -82,3 +82,28 @@ https://blog.izs.me/
 
 
 
+https://docs.oracle.com/javase/8/docs/technotes/guides/index.html
+
+
+
+https://www.rfc-editor.org/info/rfc9110/
+
+https://datatracker.ietf.org/doc/rfc9110/
+
+https://www.rfc-editor.org/rfc/rfc9112.html#name-message-body
+
+https://www.rfc-editor.org/rfc/rfc9110.html#name-status-codes
+
+https://www.iana.org/assignments/http-status-codes
+
+https://www.iso.org/obp/ui/en/#iso:std:iso-iec:7498:-1:ed-1:v2:en
+
+
+
+https://shop.ailxw.com/#plus
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+
+https://tc39.es/ecma262/
