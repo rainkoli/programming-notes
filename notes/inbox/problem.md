@@ -44,3 +44,7 @@ Spring MVC   + Spring WebFlux 为什么冗余？
 形参中的 slash / 到底要不要加？ springmvc 会自动处理它吗？
 
 @RequestMapping 注解中的形参 name 有什么用？
+
+既然 Java 语言规范（JLS）没有规定引用值必须是对象的物理内存地址，那引用值除了物理内存地址一般都有哪些存在形式？
+
+Agent、LLM、AI Agent、LLM-based Agent、Autonomous Agent、Agentic AI、Agentic System、Agentic Workflow、CLI、CLI-based AI Agent这些术语规范吗？除去不规范的术语，他们之间的关系是什么？
